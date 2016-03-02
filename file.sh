@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "new test"
+echo "Omkar Success"
